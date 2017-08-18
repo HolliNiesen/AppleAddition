@@ -52,3 +52,5 @@ Once signed in, the user can go to their account page to update their informatio
 From there the user can view their “tricky question” history:
 
 ![trickyQuestions.jsp](/projectDocs/screenshots/trickyQuestions.png)
+
+![trickyQuestions.jsp](/projectDocs/screenshots/noTrickyQuestions.png)
