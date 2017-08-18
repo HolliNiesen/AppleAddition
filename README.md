@@ -13,6 +13,42 @@ The database.properties file will need to be updated with your username and pass
 
 When the application is launched, you should be greeted with this:
 
-[index.jsp] (screenshots/index.png)
+![index.jsp](/projectDocs/screenshots/index.png)
 
+Players who do not wish to use an account can go directly to the Apple Addition game.
 
+The starting page for the game should look like this: 
+
+![appleAddition.jsp](/projectDocs/screenshots/appleAddition.png)
+
+After each question, players are shown the correct answer:
+
+![appleAdditionAnswer.jsp](/projectDocs/screenshots/appleAdditionAnswer.png)
+
+At the end of the game, players who answered one or more questions wrong will see the questions they missed along with the number of times they attempted to answer correctly:
+
+![appleAdditionResults.jsp](/projectDocs/screenshots/resultsTrickyQuestions.png)
+
+Players who got through the whole game without answering a single question wrong should see:
+
+![appleAdditionResults.jsp](/projectDocs/screenshots/resultsNoTrickyQuestions.png)
+
+Players who wish to create an account should go to the Sign Up page:
+
+![signUp.jsp](/projectDocs/screenshots/signUp.png)
+
+When the user successfully creates an account, they should see:
+
+![signUpSuccess.jsp](/projectDocs/screenshots/signUpSuccess.png)
+
+Once an account is created, the user can use the Sign In page:
+
+![signIn.jsp](/projectDocs/screenshots/signIn.png)
+
+Once signed in, the user can go to their account page to update their information:
+
+![myAccount.jsp](/projectDocs/screenshots/myAccount.png)
+
+From there the user can view their “tricky question” history:
+
+![trickyQuestions.jsp](/projectDocs/screenshots/trickyQuestions.png)
