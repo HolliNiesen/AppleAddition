@@ -1,0 +1,19 @@
+Possible Classes
+
+    Database -- Connects to the database
+
+    SignUp
+
+    Login
+
+    User -- Holds user information (name, age, email, etc)
+
+    QuestionManager
+
+    Question
+
+    TrickyQuestion..?
+
+    Image
+
+    Results

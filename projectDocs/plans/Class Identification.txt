@@ -1,0 +1,23 @@
+Class Identification
+
+Database -- Holds database instance, handles connection & disconnection
+
+--------------------------------------------------------------------------------
+
+NewGame -- Controller for each game
+
+Question -- Asks questions & handles game logic
+
+Results -- Displays & stores game resutls
+
+GameData -- Talks to the database for game-related queries
+
+--------------------------------------------------------------------------------
+
+User -- Holds user information (name, birthday, email, etc)
+
+CreateUser -- Controller for new users
+
+VerifyUser -- Handles user verification details
+
+UserData -- Talks to the database for user-related queries and updates
