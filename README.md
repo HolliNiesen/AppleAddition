@@ -31,7 +31,7 @@ At the end of the game, players who answered one or more questions wrong will se
 
 Players who got through the whole game without answering a single question wrong should see:
 
-![appleAdditionResults.jsp](/projectDocs/screenshits/resultsNoTrickyQuestions.png)
+![appleAdditionResults.jsp](/projectDocs/screenshots/resultsNoTrickyQuestions.png)
 
 The account sign in page should look like this:
 
