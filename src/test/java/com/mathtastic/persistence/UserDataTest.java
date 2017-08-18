@@ -1,7 +1,7 @@
-package com.mathtastic.persistence.data;
+package com.mathtastic.persistence;
 
 import com.mathtastic.entity.User;
-import org.junit.After;
+
 import org.junit.Before;
 import org.junit.Test;
 

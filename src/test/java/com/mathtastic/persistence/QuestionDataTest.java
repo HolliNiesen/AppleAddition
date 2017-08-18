@@ -1,4 +1,4 @@
-package com.mathtastic.persistence.data;
+package com.mathtastic.persistence;
 
 import com.mathtastic.entity.Question;
 import org.junit.Test;
