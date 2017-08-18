@@ -39,7 +39,7 @@ The account sign in page should look like this:
 
 Once signed in, the user can go to their account page to update their information:
 
-![myAccount.jsp](/projectDocs/screenshots/myAcocunt.png)
+![myAccount.jsp](/projectDocs/screenshots/myAccount.png)
 
 From there the user can view their “tricky question” history:
 
