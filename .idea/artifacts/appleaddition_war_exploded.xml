@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="appleaddition:war exploded">
+    <output-path>$PROJECT_DIR$/target/appleaddition</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="appleaddition" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax:javaee-web-api:7.0" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.39" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/appleaddition/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="appleaddition/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,128 @@
+body {
+    background-image: url("../images/shapes.png");
+    color: #121212;
+}
+
+a {
+    color: #121212;
+}
+
+a:hover {
+    color: #121212;
+}
+
+.container {
+    background-color: #E8E8E8;
+    overflow: auto;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #09D4E9;
+}
+
+.center {
+    text-align: center;
+}
+
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-brand {
+    color: #121212;
+}
+
+.form-control, .navbar, .btn-default {
+    border-color: #424242;
+    background-color: #F2F2F2;
+    font-weight: bold;
+    color: #121212;
+}
+
+.submit {
+    background-color: #00FF00;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #121212;
+    
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #424242;
+}
+
+.navbar-default .glyphicon {
+    color: #424242;
+}
+
+.formSection {
+    text-align: right;
+    font-weight: bold;
+}
+
+#gameBox {
+    padding-top: 50px;
+    font-size: 24pt;
+    font-weight: bold;
+    height: 500px;
+    display: block;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #121212;
+    background-image: url("../images/treeLandscape_OpenClipart-Vectors.png");
+    margin-bottom: 20px;
+}
+
+#gameForm {
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.gameCol {
+    text-align: center;
+    padding: 10px;
+}
+
+#resultsHeader {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+.gameImage {
+    display: block;
+    max-width: 100%;
+}
+
+.container {
+    padding-bottom: 20px;
+}
+
+.accountInfo {
+    font-weight: normal;
+    opacity: .75;
+}
+
+#historyTable, #historyTable th, #historyTable td {
+    border: thin solid #121212;
+    border-collapse: collapse;
+}
+
+#historyTable th {
+    background-color: #00FF00;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#historyTable td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#historyTable tr:nth-child(odd) {
+    background-color: #EEEEEE;
+}
+
+#historyTable tr:nth-child(even) {
+    background-color: #C0C0C0;
+}
