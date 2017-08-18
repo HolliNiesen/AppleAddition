@@ -33,7 +33,15 @@ Players who got through the whole game without answering a single question wrong
 
 ![appleAdditionResults.jsp](/projectDocs/screenshots/resultsNoTrickyQuestions.png)
 
-The account sign in page should look like this:
+Players who wish to create an account should go to the Sign Up page:
+
+![signUp.jsp](/projectDocs/screenshots/signUp.png)
+
+When the user successfully creates an account, they should see:
+
+![signUpSuccess.jsp](/projectDocs/screenshots/signUpSuccess.png)
+
+Once an account is created, the user can use the Sign In page:
 
 ![signIn.jsp](/projectDocs/screenshots/signIn.png)
 
